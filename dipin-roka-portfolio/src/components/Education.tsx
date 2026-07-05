@@ -19,14 +19,14 @@ const education = [
     institution: "CBSE Board",
     period: "Completed",
     icon: School,
-    details: [{ label: "Percentage", value: "65.4%" }],
+    details: [],
   },
   {
     degree: "Secondary School Education (Class X)",
     institution: "CBSE Board",
     period: "Completed",
     icon: BookOpen,
-    details: [{ label: "Percentage", value: "66%" }],
+    details: [],
   },
 ];
 
